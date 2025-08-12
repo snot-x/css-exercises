@@ -1,3 +1,10 @@
-p {
+.oddnums {
     font: Verdana, DejaVu Sans, sans-serif;
+    background-color: #ff456a;
 }
+
+#num2 {
+    color: #232bc2; 
+    font-size: 36px;
+}
+    
