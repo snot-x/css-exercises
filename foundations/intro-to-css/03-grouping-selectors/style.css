@@ -1,0 +1,17 @@
+/* same font, left is bg: black fg: white font-weight: bold;
+/* same font, right is background-color: yellow; color: black;)
+*/
+.button {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.leftbutton.button {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.rightbutton.button {
+    background-color: yellow;
+    color: black
+}
